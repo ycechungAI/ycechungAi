@@ -1,8 +1,8 @@
 ### Hi there I'm Eugene 👋
 
 - 🔭 I’m currently working on Open Source projects
-- 🌱 I’m currently implementing/learning copliot and codex
-- 🔭 Secured co-op position for Winter 2022
+- 🌱 I’m currently implementing/learning GPT3, using copliot and codex
+- 🔭 Secured co-op position for Summer 2022 (Currently in co-op)
 <!--
 **ycechungAI/ycechungAi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
