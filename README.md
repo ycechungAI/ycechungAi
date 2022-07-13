@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycechungAI&theme=highcontrast&show_icons=true)
-![Gitwar](https://gitwar.herokuapp.com/badge?username=ycechungAI&color=green)
+![](https://gitwar.herokuapp.com/badge?username=ycechungAI&color=green)
