@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on Open Source projects
 - 🌱 I’m currently implementing/learning GPT3, using copliot and codex
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ycechungAI.visitor-badge)
+
 <!--
 **ycechungAI/ycechungAi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
