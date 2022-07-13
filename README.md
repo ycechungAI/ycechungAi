@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Open Source projects
 - 🌱 I’m currently implementing/learning GPT3, using copliot and codex
-- 🔭 Secured co-op position for Summer 2022 (Currently in co-op)
+
 <!--
 **ycechungAI/ycechungAi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycechungAI&theme=highcontrast&show_icons=true)
+![Gitwar](https://gitwar.herokuapp.com/badge?username=ycechungAI&color=green)
