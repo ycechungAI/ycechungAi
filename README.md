@@ -1,7 +1,7 @@
 ### Hi there I'm Eugene 👋
 
-- 🔭 I’m currently working on Open Source projects
-- 🌱 I’m currently implementing/learning GPT3, using copliot and codex
+- 🔭 I’m currently working on various projects
+- 🌱 I’m currently implementing/learning Cloud tools and Dev ops
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ycechungAI.visitor-badge)
 
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 -->
 ![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycechungAI&theme=highcontrast&show_icons=true)
 <br/>
-![](https://gitwar.herokuapp.com/badge?username=ycechungAI&color=green)
+![]()
