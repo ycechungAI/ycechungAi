@@ -1,8 +1,7 @@
 ### Hi there I'm Eugene 👋
 
 - 🔭 I’m currently working on various projects
-- 🌱 I’m currently implementing/learning Cloud tools and Dev ops
-- ⚡ Starting a new full time role in 2023
+- 🌱 I’m currently taking a break to finish other priorities
 - 👨‍💻 All of my projects are available at [https://www.github.com/ycechungAI](https://www.github.com/ycechungAI)
 - 📝 I regularly write articles on [https://ycechung-opensource.blogspot.com](https://ycechung-opensource.blogspot.com)
 
