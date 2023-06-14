@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available at [https://www.github.com/ycechungAI](https://www.github.com/ycechungAI)
 - 📝 I regularly write articles on [https://ycechung-opensource.blogspot.com](https://ycechung-opensource.blogspot.com)
 
-![](https://visitor-badge.glitch.me/badge?page_id=ycechungAI.visitor-badge)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=ycechungAI&countColor=%23dce775)](https://visitorbadge.io/status?path=ycechungAI)
 
 <!--
 **ycechungAI/ycechungAi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
