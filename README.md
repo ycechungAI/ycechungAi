@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <h4 align="left"> Back-end:</h4>
   <p align="left">
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://vectorified.com/images/express-js-icon-34.png)" alt="express" width="40" height="40"/> </a>
   </p>
     
 <h4 align="left"> Cloud:</h4>  
