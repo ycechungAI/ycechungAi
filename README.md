@@ -1,7 +1,7 @@
 ### Hi there I'm Eugene 👋
 
 - 🔭 I’m currently working on various projects
-- 🌱 I’m currently seeking employment in Fall 2023
+- 🌱 I’m currently seeking employment opportunities
 - 👨‍💻 All of my projects are available at [https://www.github.com/ycechungAI](https://www.github.com/ycechungAI)
 - 📝 I regularly write articles on [https://ycechung-opensource.blogspot.com](https://ycechung-opensource.blogspot.com)
 
