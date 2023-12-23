@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on various projects
 - 🌱 I’m currently seeking employment opportunities
 - 👨‍💻 All of my projects are available at [https://www.github.com/ycechungAI](https://www.github.com/ycechungAI)
-- 📝 I regularly write articles on [https://ycechung-opensource.blogspot.com](https://ycechung-opensource.blogspot.com)
+- 📝 I write articles on [https://ycechung-opensource.blogspot.com](https://ycechung-opensource.blogspot.com)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=ycechungAI&countColor=%23dce775)](https://visitorbadge.io/status?path=ycechungAI)
 
