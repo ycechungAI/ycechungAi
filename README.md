@@ -7,8 +7,8 @@
    width="40" /></a></td>
       <td><a href="https://instagram.com/ycechung" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ycechung"           
   height="30" width="40" /></a></td>
-    </tr>            
-</table>    
-<br/>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ycechungai" alt="ycechungai stats" /></p>
+    </tr>
+    <br/>
+    <tr><td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ycechungai" alt="ycechungai stats" /></p></td></tr>
+</table>
+
