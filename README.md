@@ -13,6 +13,6 @@
       </td>
     </tr>
     <br/>
-    <tr><td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ycechungai" alt="ycechungai stats" /></p></td></tr>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ycechungai" alt="ycechungai stats" /></p>
 </table>
 
