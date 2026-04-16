@@ -18,23 +18,8 @@
       <td><a href="https://instagram.com/ycechung" target="blank"><img                                                                                      
   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ycechung"           
   height="30" width="40" /></a></td>
-    </tr>                                                                                                                                                   
-  </table>                                                  
-  <br/><h3 align="left">Connect with me:</h3>                                                                                                                    
-  <table align="left">
-    <tr>                                                                                                                                                    
-      <td><a href="https://linkedin.com/in/ycechung" target="blank"><img
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ycechung"       
-  height="30" width="40" /></a></td>
-      <td><a href="https://fb.com/ycechung" target="blank"><img                                                                                             
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ycechung" height="30"
-   width="40" /></a></td>
-      <td><a href="https://instagram.com/ycechung" target="blank"><img                                                                                      
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ycechung"           
-  height="30" width="40" /></a></td>
-    </tr>                                                                                                                                                   
-  </table>                                                  
-                                                                                                                                                            
+    </tr>                                                                                                                                                                                      
+  <br/>
   <h3 align="left">Languages and Tools:</h3>
   <h4 align="left"> Front-end/ Back-end:</h4>                                                                                                               
   <table align="left">                                                                                                                                      
@@ -61,7 +46,7 @@
       <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://vectorified.com/images/express-js-icon-34.png" alt="express"
   width="40" height="40"/></a></td>                                                                                                                         
     </tr>                                                   
-  </table>                                                                                                                                                  
+  </table>                                                                                                                           <br/>   
                                                             
   <h4 align="left"> Cloud:</h4>                                                                                                                             
   <table align="left">
@@ -78,7 +63,7 @@
       <td><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img
   src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a></td>                                    
     </tr>                                                   
-  </table>                                                                                                                                                  
+  </table>                                                                                                                           <br/>          
                                                             
   <h4 align="left"> Languages:</h4>
   <table align="left">
@@ -114,7 +99,7 @@
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"                      
   height="40"/></a></td>                                    
     </tr>                                                                                                                                                   
-  </table>                                                                                                                                                  
+  </table>                                                                                                                          <br/>        
    
   <h4 align="left"> Database:</h4>                                                                                                                          
   <table align="left">                                      
@@ -133,7 +118,7 @@
   alt="sqlite" width="40" height="40"/></a></td>                                                                                                            
     </tr>
   </table>                                                                                                                                                  
-                                                            
+  <br/>                                         
   <h4 align="left"> Testing and DevOps:</h4>                                                                                                                
   <table align="left">
     <tr>                                                                                                                                                    
@@ -147,7 +132,7 @@
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a></td>              
     </tr>                                                   
   </table>                                                                                                                                                  
-                                                            
+  <br/>                                       
   <h4 align="left"> Tools:</h4>                                                                                                                             
   <table align="left">
     <tr>                                                                                                                                                    
