@@ -1,27 +1,10 @@
- ### Hi there I'm Eugene 👋                                                                                                                                
+  ### Hi there I'm Eugene 👋                                                                                                                                
                                                                                                                                                             
-  - 👨‍💻 All of my projects are available at [https://www.github.com/ycechungAI](https://www.github.com/ycechungAI)                                                                                                                                                                                                    
-  -─📝─I─wrote─articles─on─[https://ycechung-opensource.blogspot.com](https://ycechung-opensource.blogspot.com)─────────────────────────────────────────────
+- 👨‍💻 All of my projects are available at [https://www.github.com/ycechungAI](https://www.github.com/ycechungAI)                                                                                                                                                                                                    
+- 📝 I wrote articles on [https://ycechung-opensource.blogspot.com](https://ycechung-opensource.blogspot.com)
                                                                                                                                                             
   [![Visitors](https://api.visitorbadge.io/api/visitors?path=ycechungAI&countColor=%23dce775)](https://visitorbadge.io/status?path=ycechungAI)              
-                                                                                                                                                            
-  <!--                                                                                                                                                      
-  **ycechungAI/ycechungAi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-                                                                                                                                                            
-  Here are some ideas to get you started:                                                                                                                   
-                                                                                                                                                            
-  - 🔭 I’m currently working on ...                                                                                                                         
-  - 🌱 I’m currently learning ...                           
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...                                                                                                                        
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...                                                                                                                                 
-  - 😄 Pronouns: ...                                        
-  - ⚡ Fun fact: ...                                                                                                                                        
-  -->                                                                                                                                                       
-  <!--![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycechungAI&theme=highcontrast&show_icons=true)
-  <br/>                                                                                                                                                     
-  ![]()-->                                                                                                                                                  
+                                                                                                                                                                                                                                                                     
                                                                                                                                                             
   <h3 align="left">Connect with me:</h3>                                                                                                                    
   <table align="left">                                      
@@ -73,8 +56,8 @@
   </p>
                                                                                                                                                             
   <h4 align="left"> Languages:</h4>
-  <p align="left">
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img 
+  <p align="left">                                                                                                                                          
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;<a                       
   href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"                         
@@ -128,7 +111,7 @@
 
   <h4 align="left"> Tools:</h4>
   <p align="left">
-       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
    height="40"/></a>&nbsp;<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img                                                
   src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>&nbsp;<a href="https://pandas.pydata.org/"      
   target="_blank" rel="noreferrer"><img                                                                                                                     
