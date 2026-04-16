@@ -4,8 +4,7 @@
 - 📝 I wrote articles on [https://ycechung-opensource.blogspot.com](https://ycechung-opensource.blogspot.com)
                                                                                                                                                             
   [![Visitors](https://api.visitorbadge.io/api/visitors?path=ycechungAI&countColor=%23dce775)](https://visitorbadge.io/status?path=ycechungAI)              
-                                                                                                                                                                                                                                                                     
-                                                                                                                                                            
+  
   <h3 align="left">Connect with me:</h3>                                                                                                                    
   <table align="left">                                      
     <tr>                                                                                                                                                    
@@ -20,6 +19,6 @@
   height="30" width="40" /></a></td>
     </tr>            
   </table>    
-  <br/>
-                                                            
-  <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ycechungai" alt="ycechungai stats" /></p>
+<br/>
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ycechungai" alt="ycechungai stats" /></p>
