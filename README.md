@@ -1,5 +1,5 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=ycechungAI&countColor=%23dce775)](https://visitorbadge.io/status?path=ycechungAI)              
-<br/><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ycechungai" alt="ycechungai stats" /></p><br/>
+<br/>
 <h3 align="left">Connect with me:</h3>                                                                                                <table align="left">                                      
     <tr>
         <td><a href="https://linkedin.com/in/ycechung" target="blank"><img
