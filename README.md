@@ -2,4 +2,5 @@
 
 <h3 align="left">Connect to Satisfy:</h3>
 
-[![Overgeared](assets/overgeared-chunk01.gif)](https://www.youtube.com/watch?v=mqb6pXmRKhs)
+[![Overgeared](https://img.youtube.com/vi/mqb6pXmRKhs/sddefault.jpg)](https://www.youtube.com/watch?v=mqb6pXmRKhs)
+[![Overgeared (preview)](assets/overgeared-chunk01.gif)](https://www.youtube.com/watch?v=mqb6pXmRKhs)
