@@ -1,6 +1,6 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=ycechungAI&countColor=%23dce775)](https://visitorbadge.io/status?path=ycechungAI)
 
-<h3 align="left">Connect to Satisfy:</h3>
+<h3 align="left">Welcome to Satisfy:</h3>
 
 <!-- auto-hidden for now (keep code): thumbnail image fallback
 [![Overgeared](https://img.youtube.com/vi/mqb6pXmRKhs/sddefault.jpg)](https://www.youtube.com/watch?v=mqb6pXmRKhs)
