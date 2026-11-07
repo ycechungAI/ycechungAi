@@ -2,8 +2,8 @@
 
 <h3 align="left">Connect to Satisfy:</h3>
 
+<!-- auto-hidden for now (keep code): thumbnail image fallback
 [![Overgeared](https://img.youtube.com/vi/mqb6pXmRKhs/sddefault.jpg)](https://www.youtube.com/watch?v=mqb6pXmRKhs)
-
-<!-- auto-hidden for now (keep code): chunk01 GIF preview
-[![Overgeared (preview)](assets/overgeared-chunk01.gif)](https://www.youtube.com/watch?v=mqb6pXmRKhs)
 -->
+
+[![Overgeared (preview)](assets/overgeared-chunk01.gif)](https://www.youtube.com/watch?v=mqb6pXmRKhs)
