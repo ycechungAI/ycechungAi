@@ -2,30 +2,16 @@
 
 <h3 align="left">Welcome to Satisfy:</h3>
 
+[![Overgeared segment 1](assets/overgeared-chunk01.gif)](http://www.ycechung.top/ycechungAi/segments.html)
+
+[Open interactive segments](http://www.ycechung.top/ycechungAi/segments.html) · [Watch on YouTube](https://www.youtube.com/watch?v=mqb6pXmRKhs)
+
 <!-- auto-hidden for now (keep code): thumbnail image fallback
 [![Overgeared](https://img.youtube.com/vi/mqb6pXmRKhs/sddefault.jpg)](https://www.youtube.com/watch?v=mqb6pXmRKhs)
 -->
-
-<a id="segment-1"></a>
-<details open>
-<summary><strong>Segment 1/3</strong> (0:00–10:00, 10×) — show/hide</summary>
-
-[![Overgeared segment 1](assets/overgeared-chunk01.gif)](https://www.youtube.com/watch?v=mqb6pXmRKhs&t=0s)
-
-</details>
-
+<!-- auto-hidden for now (keep code): segments 2-3
 <a id="segment-2"></a>
-<details>
-<summary><strong>Segment 2/3</strong> (10:00–20:00, 10×) — show/hide</summary>
-
 [![Overgeared segment 2](assets/overgeared-chunk02.gif)](https://www.youtube.com/watch?v=mqb6pXmRKhs&t=600s)
-
-</details>
-
 <a id="segment-3"></a>
-<details>
-<summary><strong>Segment 3/3</strong> (20:00–30:00, 10×) — show/hide</summary>
-
 [![Overgeared segment 3](assets/overgeared-chunk03.gif)](https://www.youtube.com/watch?v=mqb6pXmRKhs&t=1200s)
-
-</details>
+-->
