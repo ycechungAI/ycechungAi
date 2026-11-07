@@ -15,3 +15,4 @@
 <a id="segment-3"></a>
 [![Overgeared segment 3](assets/overgeared-chunk03.gif)](https://www.youtube.com/watch?v=mqb6pXmRKhs&t=1200s)
 -->
+<i>My book is life and my imagination is my teacher - Y.C. Eugene Chung</i>
