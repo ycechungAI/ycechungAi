@@ -2,7 +2,7 @@
 
 <h3 align="left">Welcome to Satisfy:</h3>
 
-[![Overgeared segment 1](assets/overgeared-chunk01.gif)](http://www.ycechung.top/ycechungAi/segments.html)
+[![Overgeared](assets/overgeared-chunk01.gif)](http://www.ycechung.top/ycechungAi/segments.html)
 
 [Open interactive segments](http://www.ycechung.top/ycechungAi/segments.html) · [Watch on YouTube](https://www.youtube.com/watch?v=mqb6pXmRKhs)
 
