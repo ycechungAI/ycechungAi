@@ -2,4 +2,6 @@
 
 <h3 align="left">Connect to Satisfy:</h3>
 
-[![Overgeared](https://img.youtube.com/vi/mqb6pXmRKhs/sddefault.jpg)](https://www.youtube.com/watch?v=mqb6pXmRKhs)
+[![Overgeared](assets/overgeared-chunk01.gif)](https://www.youtube.com/watch?v=mqb6pXmRKhs)
+
+<sub>If the GIF doesn’t load: [thumbnail/fallback](https://img.youtube.com/vi/mqb6pXmRKhs/sddefault.jpg) · [watch on YouTube](https://www.youtube.com/watch?v=mqb6pXmRKhs)</sub>
