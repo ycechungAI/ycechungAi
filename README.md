@@ -1,6 +1,5 @@
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=ycechungAI&countColor=%23dce775)](https://visitorbadge.io/status?path=ycechungAI)              
-<br/>
-<h3 align="left">Connect to Satisfy:</h3>                   
-[![Overgeared](https://img.youtube.com/vi/mqb6pXmRKhs/sddefault.jpg)](https://www.youtube.com/watch?v=mqb6pXmRKhs)  
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=ycechungAI&countColor=%23dce775)](https://visitorbadge.io/status?path=ycechungAI)
 
+<h3 align="left">Connect to Satisfy:</h3>
 
+[![Overgeared](https://img.youtube.com/vi/mqb6pXmRKhs/sddefault.jpg)](https://www.youtube.com/watch?v=mqb6pXmRKhs)
