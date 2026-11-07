@@ -20,11 +20,14 @@
 </head>
 <body>
   <h1>Overgeared recap</h1>
-  <p class="meta">Click 1, 2, or 3 (or use ← / →). Only the selected GIF is shown. GIFs link to YouTube.</p>
+  <p class="meta">Click 1–6 (or use ← / →). Only the selected GIF is shown. GIFs link to YouTube.</p>
   <div class="controls" role="tablist" aria-label="Previews">
     <button type="button" class="tab" data-seg="1" aria-pressed="true">1</button>
     <button type="button" class="tab" data-seg="2" aria-pressed="false">2</button>
     <button type="button" class="tab" data-seg="3" aria-pressed="false">3</button>
+    <button type="button" class="tab" data-seg="4" aria-pressed="false">4</button>
+    <button type="button" class="tab" data-seg="5" aria-pressed="false">5</button>
+    <button type="button" class="tab" data-seg="6" aria-pressed="false">6</button>
     <button type="button" id="prev" aria-label="Previous">←</button>
     <button type="button" id="next" aria-label="Next">→</button>
   </div>
@@ -38,13 +41,22 @@
   <section id="seg-3" class="panel" aria-label="Preview 3">
     <a href="https://www.youtube.com/watch?v=mqb6pXmRKhs&t=1200s"><img src="assets/overgeared-chunk03.gif" alt="Overgeared preview 3"></a>
   </section>
+  <section id="seg-4" class="panel" aria-label="Preview 4">
+    <a href="https://www.youtube.com/watch?v=mqb6pXmRKhs&t=1800s"><img src="assets/overgeared-chunk04.gif" alt="Overgeared preview 4"></a>
+  </section>
+  <section id="seg-5" class="panel" aria-label="Preview 5">
+    <a href="https://www.youtube.com/watch?v=mqb6pXmRKhs&t=2400s"><img src="assets/overgeared-chunk05.gif" alt="Overgeared preview 5"></a>
+  </section>
+  <section id="seg-6" class="panel" aria-label="Preview 6">
+    <a href="https://www.youtube.com/watch?v=mqb6pXmRKhs&t=3000s"><img src="assets/overgeared-chunk06.gif" alt="Overgeared preview 6"></a>
+  </section>
 
   <script>
     const tabs = [...document.querySelectorAll('.tab')];
     const panels = [...document.querySelectorAll('.panel')];
     let current = 1;
     function show(n) {
-      current = Math.max(1, Math.min(3, n));
+      current = Math.max(1, Math.min(6, n));
       tabs.forEach(t => t.setAttribute('aria-pressed', String(Number(t.dataset.seg) === current)));
       panels.forEach(p => p.classList.toggle('active', p.id === 'seg-' + current));
     }
